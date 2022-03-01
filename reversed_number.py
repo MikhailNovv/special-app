@@ -1,3 +1,4 @@
+print('new-contacts')
 print('button')
 print('Вносим изменения в файл нашего проекта в этой ветке')
 def turn_over(user_number):
