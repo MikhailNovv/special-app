@@ -8,6 +8,8 @@ def turn_over(user_number):
 
 user_number = input('Введите число: ')
 print('inverted_number =', int(turn_over(user_number)))
+print('-')
+
 
 
 
